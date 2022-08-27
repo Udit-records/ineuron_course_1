@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//before implementing the objective/subsections, Kindly uncomment it
 int main()
 {
     //Objective_1
